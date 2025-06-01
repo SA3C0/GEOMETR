@@ -80,7 +80,7 @@ geometry_lib/
 │
 ├── requirements.txt           # Зависимости (matplotlib)
 ├── setup.py                   # Установка пакета через pip
-└── README.md                  # Этот файл
+README.md                  # Этот файл
 ```
 
 ### 📚 Описание компонентов
